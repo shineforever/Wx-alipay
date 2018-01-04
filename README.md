@@ -1,5 +1,9 @@
  # 微信自动跳转到支付宝领红包
 
+- 截图
+
+![](https://github.com/Leslin/Wx-alipay/blob/master/jietu.gif)
+
 - 代码说明
   复制代码
 
